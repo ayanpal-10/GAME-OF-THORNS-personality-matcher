@@ -70,7 +70,8 @@ Dataset File:
 
 ### Recommendation Result
 
-![Result](screenshots/result.png)
+<img width="1022" height="847" alt="result png" src="https://github.com/user-attachments/assets/6ad18d20-4c0c-459a-8f40-1096954f5d74" />
+
 
 ---
 
